@@ -13,7 +13,7 @@ CSS3: Styling language for designing the application's visual appearance.
 
 JavaScript: Programming language used for application logic and interactivity.
 
-You can see a live preview of the "25+5 Clock" application here.
+
 
 ## Features
 
