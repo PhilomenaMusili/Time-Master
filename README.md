@@ -2,7 +2,7 @@
 The "25+5 Clock" is a simple timer application built with React. It allows users to set the length of the break and session periods and provides a countdown timer.
 ## Preview
 
-25+5 Clock Preview
+![preview](timeMaster)
 
 ## Technologies Used
 React: JavaScript library for building user interfaces.
